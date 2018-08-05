@@ -6,6 +6,8 @@
 #### Abstract
 This research paper 
 
+![cat](https://github.com/adamgolubowski/catenary/raw/master/20180805_100404_cat.jpg)
+
 #### Introduction
 
 #### Materials and methods
